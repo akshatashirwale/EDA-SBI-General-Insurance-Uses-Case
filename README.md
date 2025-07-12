@@ -41,5 +41,4 @@ This project presents a detailed **data analysis use case for SBI General Insura
 | Seaborn          | Correlation and trend plots            |
 | Jupyter Notebook | Interactive data storytelling          |
 
-]
 
