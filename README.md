@@ -17,7 +17,7 @@ This project presents a detailed **data analysis use case for SBI General Insura
 - Segment customers based on insurance history
 - Recommend actions for better risk mitigation
 
----
+
 
 ## 🧠 Key Insights Explored
 
