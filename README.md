@@ -7,7 +7,7 @@
 
 This project presents a detailed **data analysis use case for SBI General Insurance**, focusing on **policy data, customer claims, and potential fraud patterns**. The goal is to provide strategic business insights through **exploratory data analysis (EDA)** and lay the foundation for intelligent risk management and customer segmentation in the insurance sector.
 
----
+
 
 ## 🎯 Business Objectives
 
@@ -29,7 +29,7 @@ This project presents a detailed **data analysis use case for SBI General Insura
 | 📈 Policy Performance     | Claim rates vs. premiums paid, region-wise distribution   |
 | 🧩 Segmentation Strategy | Targeting low-risk and high-value customers               |
 
----
+
 
 ## 🧰 Tools & Technologies Used
 
